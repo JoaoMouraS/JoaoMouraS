@@ -50,7 +50,8 @@ Desenvolvedor proativo e <b>Engenheiro de Software em formação</b> na <b>PUC M
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=JoaoMouraS&show_icons=true&theme=tokyonight&rank_icon=percentile" alt="GitHub Stats" />
+      <!-- Substitua SUA_URL_AQUI pelo domínio que a Vercel gerou -->
+      <img src="https://joaostats.vercel.app/api?username=JoaoMouraS&show_icons=true&theme=tokyonight&rank_icon=percentile" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://helio-github-stats.vercel.app/api/wakatime?username=joaopedromourinha&custom_title=Tempo+de+Código&card_width=466&layout=compact&display_format=time&theme=dark" alt="WakaTime Stats" />
@@ -58,7 +59,8 @@ Desenvolvedor proativo e <b>Engenheiro de Software em formação</b> na <b>PUC M
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMouraS&layout=pie&theme=tokyonight" alt="Top Langs" />
+      <!-- Substitua SUA_URL_AQUI pelo domínio que a Vercel gerou -->
+      <img src="https://joaostats.vercel.app/api/top-langs/?username=JoaoMouraS&layout=pie&theme=tokyonight" alt="Top Langs" />
     </td>
   </tr>
 </table>
