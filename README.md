@@ -6,7 +6,7 @@
 
 <div align="center">
 
-| 🌐 [Website](https://moura-dev.vercel.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/joaomourasantos) | 🛠️ [Projetos](https://github.com/JoaoPedromourinhaSantos?tab=repositories) |
+| 🌐 [Website](https://moura-dev.vercel.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/joaomourasantos) | 🛠️ [Projetos](https://github.com/JoaoMouraS?tab=repositories) |
 | :---: | :---: | :---: |
 
 </div>
@@ -50,7 +50,7 @@ Desenvolvedor proativo e <b>Engenheiro de Software em formação</b> na <b>PUC M
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=JoaoPedromourinhaSantos&show_icons=true&theme=tokyonight&rank_icon=percentile" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=JoaoMouraS&show_icons=true&theme=tokyonight&rank_icon=percentile" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://helio-github-stats.vercel.app/api/wakatime?username=joaopedromourinha&custom_title=Tempo+de+Código&card_width=466&layout=compact&display_format=time&theme=dark" alt="WakaTime Stats" />
@@ -58,7 +58,7 @@ Desenvolvedor proativo e <b>Engenheiro de Software em formação</b> na <b>PUC M
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedromourinhaSantos&layout=pie&theme=tokyonight" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMouraS&layout=pie&theme=tokyonight" alt="Top Langs" />
     </td>
   </tr>
 </table>
@@ -72,7 +72,7 @@ Desenvolvedor proativo e <b>Engenheiro de Software em formação</b> na <b>PUC M
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Calculadora CO²** | Estimativa de emissão de carbono com Copilot. | [Acessar](https://joaopedromourinhasantos.github.io/GitHubCopilot-CodigonaPratica/) |
+| **Calculadora CO²** | Estimativa de emissão de carbono com Copilot. | [Acessar](https://JoaoMouraS.github.io/GitHubCopilot-CodigonaPratica/) |
 | **InvestLux** | Projeto interdisciplinar de finanças (TI1). | [Acessar](https://investlux.netlify.app) |
 | **Profile Page** | Meu portfólio pessoal interativo. | [Acessar](https://moura-dev.vercel.app/) |
 
@@ -90,9 +90,9 @@ Desenvolvedor proativo e <b>Engenheiro de Software em formação</b> na <b>PUC M
 <!-- Rodapé Estilo -->
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoPedromourinhaSantos/JoaoPedromourinhaSantos/main/img/github-user-contribution.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoPedromourinhaSantos/JoaoPedromourinhaSantos/main/img/github-user-contribution.svg">
-        <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoPedromourinhaSantos/JoaoPedromourinhaSantos/main/img/github-user-contribution.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoMouraS/JoaoMouraS/main/img/github-user-contribution.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoMouraS/JoaoMouraS/main/img/github-user-contribution.svg">
+        <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoMouraS/JoaoMouraS/main/img/github-user-contribution.svg" width="100%">
   </picture>
     
   </picture>
