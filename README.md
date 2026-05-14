@@ -45,10 +45,10 @@ Desenvolvedor proativo e <b>Engenheiro de Software em formação</b> na <b>PUC M
 <div align="center">
 <table>
   <tr>
-    <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@joaopedromourinha">WakaTime</a></td>
+    <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@JoaoMouraS">WakaTime</a></td>
   </tr> 
   <tr>
-    <td><<img src="https://helio-github-stats.vercel.app/api/wakatime?username=joaopedromourinha&custom_title=Tempo+de+Código&card_width=466&layout=compact&display_format=time&theme=dark" alt="WakaTime Stats"/></td>
+    <td><<img src="https://helio-github-stats.vercel.app/api/wakatime?username=JoaoMouraS&custom_title=Tempo+de+Código&card_width=466&layout=compact&display_format=time&theme=dark" alt="WakaTime Stats"/></td>
   </tr>
 </table>
 
