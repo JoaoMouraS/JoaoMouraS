@@ -6,7 +6,7 @@
 
 <div align="center">
 
-| 🌐 [Website](https://moura-dev.vercel.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/joaomourasantos) | 🛠️ [Projetos](https://github.com/JoaoMouraS?tab=repositories) |
+| 🌐 [Website](https://mouradev.vercel.app/) | 🔗 [LinkedIn](https://www.linkedin.com/in/joaomourasantos) | 🛠️ [Projetos](https://github.com/JoaoMouraS?tab=repositories) |
 | :---: | :---: | :---: |
 
 </div>
