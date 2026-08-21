@@ -28,14 +28,14 @@ Desenvolvedor proativo e <b>Engenheiro de Software em formação</b> na <b>PUC M
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | `C` `Java` `JavaScript` `Swift` `SQL` |
-| **Frontend** | `HTML5` `CSS3` `React` |
-| **Backend** | `Spring Boot` `Node.js` |
-| **Outros** | `Linux` `Machine Learning` |
+| **Frontend** | `HTML5` `CSS3` `React` `Angular` |
+| **Backend** | `Spring Boot` `Java` `Python` |
+| **Outros** | `Linux` `Machine Learning` `MySQL` `PostgreSQL` `Docker`|
 
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,swift,js,html,css,react,spring,mysql,linux,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,java,swift,js,html,css,react,angular,spring,mysql,linux,github,vscode,postgresql,docker" />
 </p>
 
 -----
@@ -116,9 +116,9 @@ Desenvolvedor proativo e <b>Engenheiro de Software em formação</b> na <b>PUC M
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Calculadora CO²** | Estimativa de emissão de carbono com Copilot. | [Acessar](https://JoaoMouraS.github.io/GitHubCopilot-CodigonaPratica/) |
-| **InvestLux** | Projeto interdisciplinar de finanças (TI1). | [Acessar](https://investlux.netlify.app) |
-| **Profile Page** | Meu portfólio pessoal interativo. | [Acessar](https://moura-dev.vercel.app/) |
+| **Boteco Do Hudson** | Aplicação WEB para o estabelecimento Boteco do Hudson. | [Acessar](https://github.com/JoaoMouraS/Projeto_BotecoDoHudson.git) |
+| **Plantei** | Projeto interdisciplinar plataforma gameficada para crianças (TI4). | [Acessar](https://planteicspc.vercel.app/) |
+| **Profile Page** | Meu portfólio pessoal interativo. | [Acessar](https://mouradev.vercel.app/) |
 
 </div>
 
